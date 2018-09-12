@@ -1,0 +1,21 @@
+.result {
+    padding-left: 0px;
+}
+
+.result table td {
+    font-size: 11px;
+    padding: 8px;
+}
+
+.result table .first {
+    background-color: antiquewhite;
+}
+
+.copy-message {
+    margin-left: 20px;
+}
+
+.copy-message:hover {
+    color: blue;
+    cursor: pointer;
+}

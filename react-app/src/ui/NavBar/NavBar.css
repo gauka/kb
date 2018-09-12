@@ -1,0 +1,25 @@
+.navbar-brand {
+    margin-right: 135px;
+}
+
+.navbar a {
+    font-size: 18px;
+}
+
+.navbar .navbar-brand {
+    font-size: 24px;
+}
+
+.nav-item {
+    margin-right: 55px;
+}
+
+@media screen and (max-device-width: 768px) {
+    .navbar a {
+        font-size: 14px;
+    }
+    
+    .navbar .navbar-brand {
+        font-size: 16px;
+    }
+}
